@@ -1,5 +1,5 @@
 {
-  "name": "Squirrelly1",
+  "name": "Squirrelly",
   "description": "An Image and text sharing tool",
   "addons": ["heroku-postgresql:hobby-dev"],
   "buildpacks": [{"url":"https://github.com/heroku/heroku-buildpack-php.git"}]
