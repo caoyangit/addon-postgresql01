@@ -1,7 +1,7 @@
 {
   "name": "Start on Heroku: PHP",
   "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/caoyangit/addon-postgresql01",
+  "repository": "https://github.com/heroku/php-getting-started",
   "addons": ["heroku-postgresql:hobby-dev"],
   "buildpacks": [{"url":"https://github.com/heroku/heroku-buildpack-php.git"}]
 }
